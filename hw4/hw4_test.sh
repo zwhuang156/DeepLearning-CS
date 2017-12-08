@@ -1,0 +1,1 @@
+python hw4.py bi_rnn test --load_model bi_rnn --test_path $1 --result_path $2
